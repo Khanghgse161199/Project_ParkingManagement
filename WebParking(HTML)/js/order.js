@@ -119,7 +119,7 @@ var ListRating = [];
 var listOrderBooking = [];
 var listCustomer = [];
 window.onload = async function () {
-    
+    console.log("Now")
     const ref = firebase.database().ref("/");
     const snapshot = await ref.limitToLast(10).once("value");
     snapshot.forEach((child) => {

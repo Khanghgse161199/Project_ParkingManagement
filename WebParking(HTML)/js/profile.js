@@ -13,7 +13,7 @@ var firebaseConfig = {
 // firebase.initializeApp(firebaseConfig);
 var database = firebase.database()
 window.onload = async function () {
-    
+    await CheckToken();
     const ref = firebase.database().ref("/");
     const snapshot = await ref.limitToLast(10).once("value");
 

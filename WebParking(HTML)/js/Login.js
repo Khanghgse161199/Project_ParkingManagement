@@ -52,21 +52,21 @@ window.onload = async function () {
     console.log("1");
     console.log(listCustomer);
     var idUser = localStorage.getItem("idUser");
-    if(!isNullOrEmpty(idUser)){
-        listCustomer.forEach(element => {
-            if(element.Id == idUser){
-                document.getElementById("profileLink").style.display = "flex";
-                document.getElementById("orderLink").style.display = "flex";
-                document.getElementById("LoginLink").style.display = "none";
-                document.getElementById("LogOutLink").style.display = "flex";
-            }
-        });
-    }else{
+    // if(!isNullOrEmpty(idUser)){
+    //     listCustomer.forEach(element => {
+    //         if(element.Id == idUser){
+    //             document.getElementById("profileLink").style.display = "flex";
+    //             document.getElementById("orderLink").style.display = "flex";
+    //             document.getElementById("LoginLink").style.display = "none";
+    //             document.getElementById("LogOutLink").style.display = "flex";
+    //         }
+    //     });
+    // }else{
         document.getElementById("profileLink").style.display = "none";
         document.getElementById("orderLink").style.display = "none";
         document.getElementById("LoginLink").style.display = "flex";
         document.getElementById("LogOutLink").style.display = "none";
-    }
+    // }
 }
 
 
