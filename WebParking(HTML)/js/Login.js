@@ -164,19 +164,6 @@ async function login(){
         }else{
             announceError("Sorry UserName or Password is wrong!");
         }
- 
-    // listCustomer.forEach(element => {
-    //     if(userName == element.UserName){
-    //         if(password == element.Password){
-    //             localStorage.setItem("idUser",element.Id);
-    //             location.replace("index.html");
-    //         }else{
-    //             announceError("Sorry UserName or Password is wrong!");
-    //         }
-    //     }else{
-    //         announceError("Sorry UserName or Password is wrong!");
-    //     }
-    // });
 }
 
 function announceSuccess(content) {
