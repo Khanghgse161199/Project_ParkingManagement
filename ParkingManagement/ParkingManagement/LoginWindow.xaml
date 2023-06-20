@@ -1,0 +1,71 @@
+﻿<Window x:Class="ParkingManagement.LoginWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ParkingManagement"
+        xmlns:UcCutominput="clr-namespace:ParkingManagement.View.UserControls"
+        xmlns:UcCutominputPassword="clr-namespace:ParkingManagement.View.UserControls"
+        mc:Ignorable="d"
+        Title="LoginWindow" Height="280" Width="440"
+        ResizeMode="NoResize"
+        WindowStyle="None"
+        WindowStartupLocation="CenterScreen"
+        >
+
+
+    <Grid>
+        <Border  Margin="4" BorderBrush="LightGray" BorderThickness="1" CornerRadius="10">
+            <Border.Effect>
+                <DropShadowEffect></DropShadowEffect>
+            </Border.Effect>
+        </Border>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"></RowDefinition>
+                <RowDefinition Height="130"></RowDefinition>
+                <RowDefinition Height="auto"></RowDefinition>
+            </Grid.RowDefinitions>
+            <Grid Grid.Row="0" HorizontalAlignment="Center">
+                <TextBlock FontSize="25" FontWeight="DemiBold" Margin="10,20,-10,0">Login</TextBlock>
+            </Grid>
+            <Grid Grid.Row="1" HorizontalAlignment="Center" Margin="0 15 5 0">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="auto"></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="0">
+                    <StackPanel>
+                        <UcCutominput:Custominput Margin="0 5 0 5" x:Name="usInputUsername" LableText="UserName" Placeholder="Enter user-Name"></UcCutominput:Custominput>
+                        <UcCutominputPassword:CustomPasswordBox Margin="0 5 0 5" x:Name="usInputPassword" LableText="Password" ></UcCutominputPassword:CustomPasswordBox>
+                    </StackPanel>
+                </Grid>
+                <Grid Grid.Row="1" Margin="0 10 0 10">
+                    <TextBlock FontWeight="DemiBold" HorizontalAlignment="Center"><Hyperlink>Forgot password</Hyperlink></TextBlock>
+                </Grid>
+            </Grid>
+            <Grid Grid.Row="2" HorizontalAlignment="Center">
+                <DockPanel>
+                    <Button Cursor="Hand" Width="150" Height="30" Margin="0 5 2 0" Name="btnSumit" Click="btnSumit_Click">
+                        <Button.Template>
+                            <ControlTemplate>
+                                <Border CornerRadius="10" Background="DarkRed" BorderBrush="#ccc" BorderThickness="1" >
+                                    <TextBlock HorizontalAlignment="Center" Margin="0,5,0,-1" Foreground="White" FontWeight="DemiBold">Submit</TextBlock>
+                                </Border>
+                            </ControlTemplate>
+                        </Button.Template>
+                    </Button>
+                    <Button Cursor="Hand" Width="150" Height="30" Margin="2 5 0 0" Name="btnSighUp" Click="btnSighUp_Click">
+                        <Button.Template>
+                            <ControlTemplate>
+                                <Border CornerRadius="10" Background="DarkGreen" BorderBrush="#ccc" BorderThickness="1" >
+                                    <TextBlock HorizontalAlignment="Center" Margin="0,5,0,-1" Foreground="White" FontWeight="DemiBold">Sign-Up</TextBlock>
+                                </Border>
+                            </ControlTemplate>
+                        </Button.Template>
+                    </Button>
+                </DockPanel>
+            </Grid>
+        </Grid>
+    </Grid>
+</Window>

@@ -1,0 +1,20 @@
+﻿ParkingManagement
+1.0.0.0
+
+winexe
+C#
+.cs
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\obj\Release\net6.0-windows\
+ParkingManagement
+none
+false
+TRACE;RELEASE;NET;NET6_0;NETCOREAPP
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\App.xaml
+25-2130052097
+
+36469784706
+206-533477489
+EmployeeWindow.xaml;Employee\AddEmployee.xaml;Employee\UpdateEmployee.xaml;LoginWindow.xaml;MainWindow.xaml;ParkingLotWindow.xaml;ParkingSlotWindow.xaml;ParkingSubWindow.xaml;Parking\AddParkingLot.xaml;Parking\AddSlotParking.xaml;Parking\AddSubParking.xaml;Parking\UpdateLotParking.xaml;Parking\UpdateSlotParking.xaml;Parking\UpdateSubParking.xaml;ProfileWindow.xaml;RolesWindow.xaml;Role\AddRole.xaml;Role\UpdateRole.xaml;SignUpWindow.xaml;StylesSource\StylesSource.xaml;tmp.xaml;View\Modal\ModalConfirm.xaml;View\UserControls\CardCustom.xaml;View\UserControls\Custominput.xaml;View\UserControls\CustomPasswordBox.xaml;
+
+True
+

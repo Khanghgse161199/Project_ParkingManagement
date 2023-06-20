@@ -1,0 +1,498 @@
+<!DOCTYPE html>
+<html lang='en'>
+
+<head>
+    <meta charset='utf-8'>
+    <title>Order</title>
+    <meta content='width=device-width, initial-scale=1.0' name='viewport'>
+    <meta content='Free HTML Templates' name='keywords'>
+    <meta content='Free HTML Templates' name='description'>
+
+
+
+    <!-- Google Web Fonts -->
+    <link rel='preconnect' href='https://fonts.gstatic.com'>
+    <link
+        href='https://fonts.googleapis.com/css2?family=Jost:wght@500;600;700&family=Open+Sans:wght@400;600&display=swap'
+        rel='stylesheet'>
+
+    <!-- Icon Font Stylesheet -->
+    <link href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css' rel='stylesheet'>
+    <link href='https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css' rel='stylesheet'>
+    <link href='lib/flaticon/font/flaticon.css' rel='stylesheet'>
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+
+    <!-- Libraries Stylesheet -->
+    <link href='lib/owlcarousel/assets/owl.carousel.min.css' rel='stylesheet'>
+    <link href='lib/animate/animate.min.css' rel='stylesheet'>
+
+    <!-- Customized Bootstrap Stylesheet -->
+    <link href='css/bootstrap.min.css' rel='stylesheet'>
+    <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/izitoast/1.4.0/css/iziToast.css'
+        integrity='sha512-DIW4FkYTOxjCqRt7oS9BFO+nVOwDL4bzukDyDtMO7crjUZhwpyrWBFroq+IqRe6VnJkTpRAS6nhDvf0w+wHmxg=='
+        crossorigin='anonymous' referrerpolicy='no-referrer' />
+    <!-- Template Stylesheet -->
+    <link href='css/style.css' rel='stylesheet'>
+    <link href='css/order.css' rel='stylesheet'>
+</head>
+
+<body>
+    <!-- Navbar Start -->
+    <nav class='navbar navbar-expand-lg bg-white navbar-light shadow-sm py-3 py-lg-0 px-3 px-lg-0'>
+        <a href='index.html' class='navbar-brand ms-lg-5'>
+            <h1 class='display-5 m-0 text-primary'>Parking<span class='text-dark'>BC</span></h1>
+        </a>
+        <button class='navbar-toggler' type='button' data-bs-toggle='collapse' data-bs-target='#navbarCollapse'>
+            <span class='navbar-toggler-icon'></span>
+        </button>
+        <div class='collapse navbar-collapse' id='navbarCollapse'>
+            <div class='navbar-nav ms-auto py-0'>
+                <a href='index.html' class='nav-item nav-link'>Home</a>
+                <a href='profile.html' class='nav-item nav-link '>Profile</a>
+                <a href='booking.html' class='nav-item nav-link'>Booking</a>
+                <a href='#' class='nav-item nav-link active'>Order</a>
+                <a href="Login.html" id="LogOutLink"
+                    class="nav-item nav-link nav-contact bg-secondary text-white px-5 ms-lg-5" style="display: block;"
+                    onclick="logOut()"><i style="color: white;" class='bx bx-lock-open-alt me-2'></i>LOGOUT</a>
+            </div>
+        </div>
+    </nav>
+    <!-- Navbar End -->
+
+
+    <!-- Hero Start -->
+    <div class='container-fluid bg-primary p-lg-1 hero-header mb-lg-5'>
+        <div class='row py-5'>
+            <div class='col-12 text-center'>
+                <h1 class='display-1 text-white animated zoomIn'>Orders</h1>
+                <a href='index.html' class='h4 text-white'>Home</a>
+                <i class='far fa-circle text-white px-2'></i>
+                <a href='#' class='h4 text-white'>Order</a>
+            </div>
+        </div>
+    </div>
+    <!-- Hero End -->
+
+    <!-- order Start -->
+    <div style='border-radius: 5px;'>
+        <div class='container text-center'>
+            <div class='row'>
+                <div class='col-lg-1'></div>
+                <div class='col-lg-12'>
+                    <div class='tabset'>
+                        <!-- Tab 1 -->
+                        <input type='radio' name='tabset' id='tab1' aria-controls='marzen' checked>
+                        <label for='tab1'>Unconfimred</label>
+                        <!-- Tab 2 -->
+                        <input type='radio' name='tabset' id='tab2' aria-controls='rauchbier'>
+                        <label for='tab2'>Confirmed</label>
+                        <!-- Tab 3 -->
+                        <input type='radio' name='tabset' id='tab3' aria-controls='dunkles'>
+                        <label for='tab3'>Rating</label>
+                        <!-- Tab 4 -->
+                        <input type='radio' name='tabset' id='tab4' aria-controls='all'>
+                        <label for='tab4'>Finished</label>
+
+                        <div class='tab-panels'>
+                            <!-- tab 1 -->
+                            <section id='marzen' class='tab-panel'>
+                                <table class='table-fill'>
+                                    <thead style="text-align: center;">
+                                        <tr>
+                                            <th class='text-center'>Id-Order</th>
+                                            <th class='text-center'>Id-Slot</th>
+                                            <th class='text-center'>Customer</th>
+                                            <th class='text-center'>License</th>
+                                            <th class='text-center'>Come</th>
+                                            <th class='text-center'>Out</th>
+                                            <th class='text-center'>Price</th>
+                                            <th class='text-center'>Active</th>
+                                            <th class='text-center'>View</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody class='table-hover' id="orderUnconfirm">
+                                    </tbody>
+                                </table>
+                            </section>
+                            <!-- tab 2 -->
+                            <section id='rauchbier' class='tab-panel'>
+                                <table class='table-fill'>
+                                    <thead>
+                                        <tr>
+                                            <th class='text-center'>Id-Order</th>
+                                            <th class='text-center'>Id-Slot</th>
+                                            <th class='text-center'>Customer</th>
+                                            <th class='text-center'>License</th>
+                                            <th class='text-center'>Come</th>
+                                            <th class='text-center'>Out</th>
+                                            <th class='text-center'>Price</th>
+                                            <th class='text-center'>Active</th>
+                                            <th class='text-center'>View</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody class='table-hover' id="orderconfirm">
+
+                                    </tbody>
+                                </table>
+                            </section>
+                            <!-- tab 3 -->
+                            <section id='dunkles' class='tab-panel'>
+                                <table class='table-fill'>
+                                    <thead>
+                                        <tr>
+                                            <th class='text-center'>Id-Order</th>
+                                            <th class='text-center'>Id-Slot</th>
+                                            <th class='text-center'>Customer</th>
+                                            <th class='text-center'>License</th>
+                                            <th class='text-center'>Come</th>
+                                            <th class='text-center'>Out</th>
+                                            <th class='text-center'>Date</th>
+                                            <th class='text-center'>Total</th>
+                                            <th class='text-center'>Rate</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody class='table-hover' id="orderExpired">
+
+                                    </tbody>
+                                </table>
+                            </section>
+                             <!-- tab 4 -->
+                             <section id='all' class='tab-panel'>
+                                <table class='table-fill'>
+                                    <thead>
+                                        <tr>
+                                            <th class='text-center'>Id-Order</th>
+                                            <th class='text-center'>Id-Slot</th>
+                                            <th class='text-center'>Customer</th>
+                                            <th class='text-center'>License</th>
+                                            <th class='text-center'>Come</th>
+                                            <th class='text-center'>Out</th>
+                                            <th class='text-center'>Price</th>
+                                            <th class='text-center'>Active</th>
+                                            <th class='text-center'>View</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody class='table-hover' id="orderconfirm2">
+
+                                    </tbody>
+                                </table>
+                            </section>
+                        </div>
+                    </div>
+                </div>
+                <div class='col-lg-1'></div>
+            </div>
+        </div>
+        <!-- pop up order detail -->
+        <div>
+            <div id="demo-modal" class="modal">
+                <div class="modal__content">
+                    <h4>Order:</h4>
+                    <div class="modal__footer">
+                        <div class="container-fluid" style="padding: 0 0;">
+                            <div class="row" id="divViewOrder">
+                                <div class="col-lg-6">
+                                    <table>
+                                        <tbody>
+                                            <tr>
+                                                <td>
+                                                    <p id="labelCustom">ID-Order: </p>
+                                                </td>
+                                                <td>
+                                                    <p id="idOrder">Tke4mqFFnS3b</p>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <p id="labelCustom">ID-Slot: </p>
+                                                </td>
+                                                <td>
+                                                    <p id="idSlot">A49-B49-C75</p>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                                <div class="col-lg-6">
+                                    <table>
+                                        <tbody>
+                                            <tr>
+                                                <td>
+                                                    <p id="labelCustom">TimeCome</p>
+                                                </td>
+                                                <td>
+                                                    <p id="timeCome">kasdk</p>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <p id="labelCustom">TimeOut</p>
+                                                </td>
+                                                <td>
+                                                    <p id="timeOut">kasdk</p>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                                <div style="height: 2px;background-color: lightblue;"></div>
+                                <h4>Cutomer:</h4>
+                                <div class="col-lg-6">
+                                    <table>
+                                        <tbody>
+                                            <tr>
+                                                <td>
+                                                    <p id="labelCustom">Name: </p>
+                                                </td>
+                                                <td>
+                                                    <p id="nameCutomer">kasdk</p>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <p id="labelCustom">Phone: </p>
+                                                </td>
+                                                <td>
+                                                    <p id="phoneCutomer">kasdk</p>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                                <div class="col-lg-6">
+                                    <table>
+                                        <tbody>
+                                            <tr>
+                                                <td>
+                                                    <p id="labelCustom">Email: </p>
+                                                </td>
+                                                <td>
+                                                    <p id="emailCutomer">kasdk</p>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <p id="labelCustom">License: </p>
+                                                </td>
+                                                <td>
+                                                    <p id="lpCar">kasdk</p>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                                <div class="col-lg-12">
+                                    <table>
+                                        <tbody>
+                                            <tr>
+                                                <td>
+                                                    <p id="labelCustom">Message: </p>
+                                                </td>
+                                                <td>
+                                                    <p id="messageCutomer">kasdk</p>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                                <div style="height: 3px;background-color: lightblue;margin-bottom: 5px;"></div>
+                                <h4>Confirm:</h4>
+                                <div class="col-lg-6">
+                                    <h5>Code-Confirm: </h5>
+                                </div>
+                                <div class="col-lg-6" style="text-align: center;">
+                                    <h5 style="margin-right: 65px;" id="codeConfrim">e9iqzpjqv082gvcg</h5>
+                                </div>
+                                <div class="col-lg-6">
+                                    <h5>Registration-Time: </h5>
+                                    <br>
+                                </div>
+                                <div class="col-lg-6" style="text-align: center;">
+                                    <h5 style="margin-right: 65px;" id="dayCreateOder">20-05-2023 08:09</h5>
+                                    <br>
+                                </div> 
+                                <div style="height: 2px;background-color: lightblue;"></div>       
+                                <br>                     
+                                <div class="col-lg-6">
+                                    <h5>Total: </h5>
+                                </div>
+                                <div class="col-lg-6" style="text-align: left;">
+                                    <h5 style="margin-left: 20px;" id="total">100$</h5>
+                                </div>
+                                <div class="col-lg-12" style="text-align: left;">
+                                    <!-- popup confirm -->
+                                    <div class="container" id="divPopup" style="padding: 0 0;">
+                                        <div class="email" onclick="this.classList.add('expand')">
+                                            <div class="from">
+                                                <div class="from-contents" style="text-align: center;">
+                                                    <div class="name" style="margin-left: 35px;">
+                                                        <p
+                                                            style="font-weight: 600;color: white;font-size: x-large;padding-top: 5px;">
+                                                            Delete</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="to">
+                                                <div class="to-contents">
+                                                    <div class="top">
+                                                        <div class="x-touch"
+                                                            onclick="document.querySelector('.email').classList.remove('expand');event.stopPropagation();">
+                                                            <div class="x">
+                                                                <div class="line1"></div>
+                                                                <div class="line2"></div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="bottom">
+                                                        <div class="row">
+                                                            <h4>Enter Password to delete: </h4>
+                                                            <div style="padding: 2px;"><input type="password" id="inputCutom"></div>
+                                                            <div
+                                                                style="text-align: center;padding-top: 10px;padding-right: 12px;">
+                                                                <button onclick="deleteOrder()"
+                                                                    class="btn btn-primary px-4">Enter</button>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <a href="#" class="modal__close"></a>
+                </div>
+            </div>
+        </div>
+
+        <!-- pop up rating -->
+        <div>
+            <input class="modal-state" id="modal-2" type="checkbox" />
+            <div class="modal">
+                <label class="modal__bg" for="modal-2"></label>
+                <div class="modal__inner">
+                    <label class="modal__close" for="modal-2"></label>
+                    <h2>Thank you for trusting and using our service</h2>
+                    <p style="text-align: center;">The support and trust of our customers is a great motivation for us
+                        to constantly improve. We are committed to continuing our unremitting efforts to bring
+                        convenience, safety and high quality to your parking lot. Once again, we would like to sincerely
+                        thank our customers for accompanying us and hope to serve you in the near future.</p>
+                    <br>
+                    <div>
+                        <div class="wrap">
+                            <div class="stars">
+                                <label class="rate" onclick="star1()">
+                                    <input type="radio" name="radio1" id="star1" value="star1">
+                                    <div class="face"></div>
+                                    <i class="far fa-star star one-star"></i>
+                                </label>
+                                <label class="rate" onclick="star2()">
+                                    <input type="radio" name="radio1" id="star2" value="star2">
+                                    <div class="face"></div>
+                                    <i class="far fa-star star two-star"></i>
+                                </label>
+                                <label class="rate" onclick="star3()">
+                                    <input type="radio" name="radio1" id="star3" value="star3">
+                                    <div class="face"></div>
+                                    <i class="far fa-star star three-star"></i>
+                                </label>
+                                <label class="rate" onclick="star4()">
+                                    <input type="radio" name="radio1" id="star4" value="star4">
+                                    <div class="face"></div>
+                                    <i class="far fa-star star four-star"></i>
+                                </label>
+                                <label class="rate" onclick="star5()">
+                                    <input type="radio" name="radio1" id="star5" value="star5">
+                                    <div class="face"></div>
+                                    <i class="far fa-star star five-star"></i>
+                                </label>
+                            </div>
+                        </div>
+                    </div>
+                    <br>
+                    <div id="divComment">
+                        <input id="comment" type="text" class="form-control border-0 px-4" placeholder="Comment..."
+                            style="height: 55px;color: black;">
+                    </div>
+                    <div style="text-align: center;padding-top: 30px;">
+                        <button class="btn btn-dark px-4" onclick="sendRating()">Send</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+    <!-- order End -->
+
+   <!-- Footer Start -->
+ <div class="container-fluid bg-dark text-light mt-5 py-5 wow fadeInUp" data-wow-delay="0.1s">
+    <div class="container pt-5">
+        <div class="row g-5">
+            <div class="col-lg-3 col-md-6">
+                <h3 class="text-white mb-4">Quick Comes</h3>
+                <div class="d-flex flex-column justify-content-start">
+                    <a class="text-light mb-2" href="#AboutDiv"><i class="bi bi-arrow-right text-primary me-2"></i>About Us</a>
+                    <a class="text-light mb-2" href="#ServiceDiv"><i class="bi bi-arrow-right text-primary me-2"></i>Our Services</a>
+                    <a class="text-light mb-2" href="#PriceDiv"><i class="bi bi-arrow-right text-primary me-2"></i>Pricing Plan</a>
+                    <a class="text-light mb-2" href="#DivTeam"><i class="bi bi-arrow-right text-primary me-2"></i>Team Member</a>
+                    <a class="text-light" href="#DevTestimonial"><i class="bi bi-arrow-right text-primary me-2"></i>Testimonial</a>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <h3 class="text-white mb-4">Popular Links</h3>
+                <div class="d-flex flex-column justify-content-start">
+                    <a class="text-light mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Home</a>
+                    <a class="text-light mb-2" href="profile.html"><i class="bi bi-arrow-right text-primary me-2"></i>Profile</a>
+                    <a class="text-light mb-2" href="booking.html"><i class="bi bi-arrow-right text-primary me-2"></i>Booking</a>
+                    <a class="text-light mb-2" href="order.html"><i class="bi bi-arrow-right text-primary me-2"></i>Order</a>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <h3 class="text-white mb-4">Get In Touch</h3>
+                <p class="mb-2"><i class="bi bi-geo-alt text-primary me-2"></i>123 Street, Thu Duc City, Viet Nam</p>
+                <p class="mb-2"><i class="bi bi-envelope-open text-primary me-2"></i>ParkingBC@example.com</p>
+                <p class="mb-0"><i class="bi bi-telephone text-primary me-2"></i>+012 345 67890</p>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <h3 class="text-white mb-4">Follow Us</h3>
+                <div class="d-flex">
+                    <a class="btn btn-lg btn-primary btn-lg-square rounded me-2" href="#"><i class="fab fa-twitter fw-normal"></i></a>
+                    <a class="btn btn-lg btn-primary btn-lg-square rounded me-2" href="#"><i class="fab fa-facebook-f fw-normal"></i></a>
+                    <a class="btn btn-lg btn-primary btn-lg-square rounded me-2" href="#"><i class="fab fa-linkedin-in fw-normal"></i></a>
+                    <a class="btn btn-lg btn-primary btn-lg-square rounded" href="#"><i class="fab fa-instagram fw-normal"></i></a>
+                </div>
+            </div>               
+        </div>
+    </div>
+</div>
+<!-- Footer End -->
+
+
+    <!-- Back to Top -->
+
+    <a href='#' class='btn btn-lg btn-dark btn-lg-square rounded back-to-top'><i class='bi bi-arrow-up'></i></a>
+
+
+    <!-- Firebase Libraries -->
+    <script src='https://www.gstatic.com/firebasejs/8.6.8/firebase-app.js'></script>
+    <script src='https://www.gstatic.com/firebasejs/8.6.8/firebase-auth.js'></script>
+    <script src='https://www.gstatic.com/firebasejs/8.6.8/firebase-database.js'></script>
+
+
+    <!-- JavaScript Libraries -->
+    <script src='https://code.jquery.com/jquery-3.4.1.min.js'></script>
+    <script src='https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js'></script>
+    <script src='lib/wow/wow.min.js'></script>
+    <script src='lib/easing/easing.min.js'></script>
+    <script src='lib/waypoints/waypoints.min.js'></script>
+    <script src='lib/owlcarousel/owl.carousel.min.js'></script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/izitoast/1.4.0/js/iziToast.min.js'></script>
+    <!-- Template Javascript -->
+    <!-- <script src='js/main.js'></script> -->
+    <script src='js/order.js'></script>
+</body>
+
+</html>

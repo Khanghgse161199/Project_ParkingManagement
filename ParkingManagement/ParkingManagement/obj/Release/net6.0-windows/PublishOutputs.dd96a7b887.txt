@@ -1,0 +1,17 @@
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\bin\Release\net6.0-windows\publish\ParkingManagement.exe
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\bin\Release\net6.0-windows\publish\ParkingManagement.dll
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\bin\Release\net6.0-windows\publish\ParkingManagement.deps.json
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\bin\Release\net6.0-windows\publish\ParkingManagement.runtimeconfig.json
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\bin\Release\net6.0-windows\publish\ParkingManagement.pdb
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\bin\Release\net6.0-windows\publish\FireSharp.dll
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\bin\Release\net6.0-windows\publish\LiveCharts.dll
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\bin\Release\net6.0-windows\publish\LiveCharts.Wpf.dll
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\bin\Release\net6.0-windows\publish\MaterialDesignColors.dll
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\bin\Release\net6.0-windows\publish\MaterialDesignThemes.Wpf.dll
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\bin\Release\net6.0-windows\publish\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\bin\Release\net6.0-windows\publish\Microsoft.Threading.Tasks.Extensions.dll
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\bin\Release\net6.0-windows\publish\Microsoft.Threading.Tasks.dll
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\bin\Release\net6.0-windows\publish\System.Net.Http.Extensions.dll
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\bin\Release\net6.0-windows\publish\System.Net.Http.Primitives.dll
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\bin\Release\net6.0-windows\publish\Microsoft.Xaml.Behaviors.dll
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\bin\Release\net6.0-windows\publish\Newtonsoft.Json.dll

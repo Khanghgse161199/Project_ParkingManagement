@@ -1,0 +1,324 @@
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\bin\Debug\net6.0-windows\ParkingManagement.exe
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\bin\Debug\net6.0-windows\ParkingManagement.deps.json
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\bin\Debug\net6.0-windows\ParkingManagement.runtimeconfig.json
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\bin\Debug\net6.0-windows\ParkingManagement.dll
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\bin\Debug\net6.0-windows\ParkingManagement.pdb
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\ParkingManagement.csproj.AssemblyReference.cache
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\App.g.cs
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\ParkingManagement_MarkupCompile.cache
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\ParkingManagement_MarkupCompile.lref
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\MainWindow.baml
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\ParkingManagement.g.resources
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\ParkingManagement.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\ParkingManagement.AssemblyInfoInputs.cache
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\ParkingManagement.AssemblyInfo.cs
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\ParkingManagement.csproj.CoreCompileInputs.cache
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\ParkingManagement.csproj.CopyComplete
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\ParkingManagement.dll
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\refint\ParkingManagement.dll
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\ParkingManagement.pdb
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\ParkingManagement.genruntimeconfig.cache
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\ref\ParkingManagement.dll
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\LoginWindow.g.cs
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\SignUpWindow.g.cs
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\LoginWindow.baml
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\SignUpWindow.baml
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\View\UserControls\Custominput.g.cs
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\View\UserControls\Custominput.baml
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\View\UserControls\CustomPasswordBox.g.cs
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\View\UserControls\CustomPasswordBox.baml
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\bin\Debug\net6.0-windows\FireSharp.dll
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\bin\Debug\net6.0-windows\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\bin\Debug\net6.0-windows\Microsoft.Threading.Tasks.Extensions.dll
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\bin\Debug\net6.0-windows\Microsoft.Threading.Tasks.dll
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\bin\Debug\net6.0-windows\System.Net.Http.Extensions.dll
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\bin\Debug\net6.0-windows\System.Net.Http.Primitives.dll
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\View\UserControls\CardCustom.g.cs
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\View\UserControls\CardCustom.baml
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\bin\Debug\net6.0-windows\LiveCharts.dll
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\bin\Debug\net6.0-windows\LiveCharts.Wpf.dll
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\RolesWindow.g.cs
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\RolesWindow.baml
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\Role\AddRole.g.cs
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\Role\AddRole.baml
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\EmployeeWindow.g.cs
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\Role\UpdateRole.g.cs
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\EmployeeWindow.baml
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\Role\UpdateRole.baml
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\Employee\AddEmployee.g.cs
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\Employee\AddEmployee.baml
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\Employee\UpdateEmployee.g.cs
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\Employee\UpdateEmployee.baml
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\ParkingLotWindow.g.cs
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\Parking\AddSubParking.g.cs
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\ParkingLotWindow.baml
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\Parking\AddSubParking.baml
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\Parking\AddSlotParking.g.cs
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\Parking\AddSlotParking.baml
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\ProfileWindow.g.cs
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\ProfileWindow.baml
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\Parking\AddParkingLot.g.cs
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\Parking\AddParkingLot.baml
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\ParkingSubWindow.g.cs
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\ParkingSubWindow.baml
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\ParkingSlotWindow.g.cs
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\ParkingSlotWindow.baml
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\Parking\UpdateSlotParking.g.cs
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\Parking\UpdateSlotParking.baml
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\Parking\UpdateSubParking.g.cs
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\Parking\UpdateSubParking.baml
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\Parking\UpdateLotParking.g.cs
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\Parking\UpdateLotParking.baml
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\View\Modal\ModalConfirm.g.cs
+E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\View\Modal\ModalConfirm.baml
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\bin\Debug\net6.0-windows\ParkingManagement.exe
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\bin\Debug\net6.0-windows\ParkingManagement.deps.json
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\bin\Debug\net6.0-windows\ParkingManagement.runtimeconfig.json
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\bin\Debug\net6.0-windows\ParkingManagement.dll
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\bin\Debug\net6.0-windows\ParkingManagement.pdb
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\bin\Debug\net6.0-windows\FireSharp.dll
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\bin\Debug\net6.0-windows\LiveCharts.dll
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\bin\Debug\net6.0-windows\LiveCharts.Wpf.dll
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\bin\Debug\net6.0-windows\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\bin\Debug\net6.0-windows\Microsoft.Threading.Tasks.Extensions.dll
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\bin\Debug\net6.0-windows\Microsoft.Threading.Tasks.dll
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\bin\Debug\net6.0-windows\System.Net.Http.Extensions.dll
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\bin\Debug\net6.0-windows\System.Net.Http.Primitives.dll
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\ParkingManagement.csproj.AssemblyReference.cache
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\EmployeeWindow.g.cs
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\Employee\AddEmployee.g.cs
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\Employee\UpdateEmployee.g.cs
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\LoginWindow.g.cs
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\ParkingLotWindow.g.cs
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\ParkingSlotWindow.g.cs
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\ParkingSubWindow.g.cs
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\Parking\AddParkingLot.g.cs
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\Parking\AddSlotParking.g.cs
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\Parking\AddSubParking.g.cs
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\Parking\UpdateLotParking.g.cs
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\Parking\UpdateSlotParking.g.cs
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\Parking\UpdateSubParking.g.cs
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\ProfileWindow.g.cs
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\RolesWindow.g.cs
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\SignUpWindow.g.cs
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\View\Modal\ModalConfirm.g.cs
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\View\UserControls\CardCustom.g.cs
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\View\UserControls\Custominput.g.cs
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\View\UserControls\CustomPasswordBox.g.cs
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\App.g.cs
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\ParkingManagement_MarkupCompile.cache
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\ParkingManagement_MarkupCompile.lref
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\EmployeeWindow.baml
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\Employee\AddEmployee.baml
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\Employee\UpdateEmployee.baml
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\LoginWindow.baml
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\MainWindow.baml
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\ParkingLotWindow.baml
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\ParkingSlotWindow.baml
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\ParkingSubWindow.baml
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\Parking\AddParkingLot.baml
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\Parking\AddSlotParking.baml
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\Parking\AddSubParking.baml
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\Parking\UpdateLotParking.baml
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\Parking\UpdateSlotParking.baml
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\Parking\UpdateSubParking.baml
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\ProfileWindow.baml
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\RolesWindow.baml
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\SignUpWindow.baml
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\View\Modal\ModalConfirm.baml
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\View\UserControls\CardCustom.baml
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\View\UserControls\Custominput.baml
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\View\UserControls\CustomPasswordBox.baml
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\ParkingManagement.g.resources
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\ParkingManagement.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\ParkingManagement.AssemblyInfoInputs.cache
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\ParkingManagement.AssemblyInfo.cs
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\ParkingManagement.csproj.CoreCompileInputs.cache
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\ParkingManagement.csproj.CopyComplete
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\ParkingManagement.dll
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\refint\ParkingManagement.dll
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\ParkingManagement.pdb
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\ParkingManagement.genruntimeconfig.cache
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\ref\ParkingManagement.dll
+E:\Project Code\WPF_Basic\Parking_WPF\ParkingManagement\ParkingManagement\bin\Debug\net6.0-windows\ParkingManagement.exe
+E:\Project Code\WPF_Basic\Parking_WPF\ParkingManagement\ParkingManagement\bin\Debug\net6.0-windows\ParkingManagement.deps.json
+E:\Project Code\WPF_Basic\Parking_WPF\ParkingManagement\ParkingManagement\bin\Debug\net6.0-windows\ParkingManagement.runtimeconfig.json
+E:\Project Code\WPF_Basic\Parking_WPF\ParkingManagement\ParkingManagement\bin\Debug\net6.0-windows\ParkingManagement.dll
+E:\Project Code\WPF_Basic\Parking_WPF\ParkingManagement\ParkingManagement\bin\Debug\net6.0-windows\ParkingManagement.pdb
+E:\Project Code\WPF_Basic\Parking_WPF\ParkingManagement\ParkingManagement\bin\Debug\net6.0-windows\FireSharp.dll
+E:\Project Code\WPF_Basic\Parking_WPF\ParkingManagement\ParkingManagement\bin\Debug\net6.0-windows\LiveCharts.dll
+E:\Project Code\WPF_Basic\Parking_WPF\ParkingManagement\ParkingManagement\bin\Debug\net6.0-windows\LiveCharts.Wpf.dll
+E:\Project Code\WPF_Basic\Parking_WPF\ParkingManagement\ParkingManagement\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+E:\Project Code\WPF_Basic\Parking_WPF\ParkingManagement\ParkingManagement\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+E:\Project Code\WPF_Basic\Parking_WPF\ParkingManagement\ParkingManagement\bin\Debug\net6.0-windows\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+E:\Project Code\WPF_Basic\Parking_WPF\ParkingManagement\ParkingManagement\bin\Debug\net6.0-windows\Microsoft.Threading.Tasks.Extensions.dll
+E:\Project Code\WPF_Basic\Parking_WPF\ParkingManagement\ParkingManagement\bin\Debug\net6.0-windows\Microsoft.Threading.Tasks.dll
+E:\Project Code\WPF_Basic\Parking_WPF\ParkingManagement\ParkingManagement\bin\Debug\net6.0-windows\System.Net.Http.Extensions.dll
+E:\Project Code\WPF_Basic\Parking_WPF\ParkingManagement\ParkingManagement\bin\Debug\net6.0-windows\System.Net.Http.Primitives.dll
+E:\Project Code\WPF_Basic\Parking_WPF\ParkingManagement\ParkingManagement\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+E:\Project Code\WPF_Basic\Parking_WPF\ParkingManagement\ParkingManagement\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+E:\Project Code\WPF_Basic\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\ParkingManagement.csproj.AssemblyReference.cache
+E:\Project Code\WPF_Basic\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\EmployeeWindow.g.cs
+E:\Project Code\WPF_Basic\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\Employee\AddEmployee.g.cs
+E:\Project Code\WPF_Basic\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\Employee\UpdateEmployee.g.cs
+E:\Project Code\WPF_Basic\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\LoginWindow.g.cs
+E:\Project Code\WPF_Basic\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\Project Code\WPF_Basic\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\ParkingLotWindow.g.cs
+E:\Project Code\WPF_Basic\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\ParkingSlotWindow.g.cs
+E:\Project Code\WPF_Basic\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\ParkingSubWindow.g.cs
+E:\Project Code\WPF_Basic\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\Parking\AddParkingLot.g.cs
+E:\Project Code\WPF_Basic\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\Parking\AddSlotParking.g.cs
+E:\Project Code\WPF_Basic\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\Parking\AddSubParking.g.cs
+E:\Project Code\WPF_Basic\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\Parking\UpdateLotParking.g.cs
+E:\Project Code\WPF_Basic\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\Parking\UpdateSlotParking.g.cs
+E:\Project Code\WPF_Basic\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\Parking\UpdateSubParking.g.cs
+E:\Project Code\WPF_Basic\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\ProfileWindow.g.cs
+E:\Project Code\WPF_Basic\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\RolesWindow.g.cs
+E:\Project Code\WPF_Basic\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\Role\AddRole.g.cs
+E:\Project Code\WPF_Basic\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\Role\UpdateRole.g.cs
+E:\Project Code\WPF_Basic\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\SignUpWindow.g.cs
+E:\Project Code\WPF_Basic\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\View\Modal\ModalConfirm.g.cs
+E:\Project Code\WPF_Basic\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\View\UserControls\CardCustom.g.cs
+E:\Project Code\WPF_Basic\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\View\UserControls\Custominput.g.cs
+E:\Project Code\WPF_Basic\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\View\UserControls\CustomPasswordBox.g.cs
+E:\Project Code\WPF_Basic\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\App.g.cs
+E:\Project Code\WPF_Basic\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+E:\Project Code\WPF_Basic\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\ParkingManagement_MarkupCompile.cache
+E:\Project Code\WPF_Basic\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\ParkingManagement_MarkupCompile.lref
+E:\Project Code\WPF_Basic\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\EmployeeWindow.baml
+E:\Project Code\WPF_Basic\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\Employee\AddEmployee.baml
+E:\Project Code\WPF_Basic\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\Employee\UpdateEmployee.baml
+E:\Project Code\WPF_Basic\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\LoginWindow.baml
+E:\Project Code\WPF_Basic\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\MainWindow.baml
+E:\Project Code\WPF_Basic\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\ParkingLotWindow.baml
+E:\Project Code\WPF_Basic\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\ParkingSlotWindow.baml
+E:\Project Code\WPF_Basic\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\ParkingSubWindow.baml
+E:\Project Code\WPF_Basic\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\Parking\AddParkingLot.baml
+E:\Project Code\WPF_Basic\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\Parking\AddSlotParking.baml
+E:\Project Code\WPF_Basic\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\Parking\AddSubParking.baml
+E:\Project Code\WPF_Basic\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\Parking\UpdateLotParking.baml
+E:\Project Code\WPF_Basic\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\Parking\UpdateSlotParking.baml
+E:\Project Code\WPF_Basic\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\Parking\UpdateSubParking.baml
+E:\Project Code\WPF_Basic\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\ProfileWindow.baml
+E:\Project Code\WPF_Basic\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\RolesWindow.baml
+E:\Project Code\WPF_Basic\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\Role\AddRole.baml
+E:\Project Code\WPF_Basic\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\Role\UpdateRole.baml
+E:\Project Code\WPF_Basic\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\SignUpWindow.baml
+E:\Project Code\WPF_Basic\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\View\Modal\ModalConfirm.baml
+E:\Project Code\WPF_Basic\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\View\UserControls\CardCustom.baml
+E:\Project Code\WPF_Basic\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\View\UserControls\Custominput.baml
+E:\Project Code\WPF_Basic\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\View\UserControls\CustomPasswordBox.baml
+E:\Project Code\WPF_Basic\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\ParkingManagement.g.resources
+E:\Project Code\WPF_Basic\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\ParkingManagement.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project Code\WPF_Basic\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\ParkingManagement.AssemblyInfoInputs.cache
+E:\Project Code\WPF_Basic\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\ParkingManagement.AssemblyInfo.cs
+E:\Project Code\WPF_Basic\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\ParkingManagement.csproj.CoreCompileInputs.cache
+E:\Project Code\WPF_Basic\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\ParkingManagement.csproj.CopyComplete
+E:\Project Code\WPF_Basic\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\ParkingManagement.dll
+E:\Project Code\WPF_Basic\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\refint\ParkingManagement.dll
+E:\Project Code\WPF_Basic\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\ParkingManagement.pdb
+E:\Project Code\WPF_Basic\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\ParkingManagement.genruntimeconfig.cache
+E:\Project Code\WPF_Basic\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\ref\ParkingManagement.dll
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\OrderWindow.g.cs
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\Order\AddRole.g.cs
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\Order\UpdateRole.g.cs
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\OrderWindow.baml
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\Order\AddRole.baml
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\Order\UpdateRole.baml
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\Order\OrderViewDetail.g.cs
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\obj\Debug\net6.0-windows\Order\OrderViewDetail.baml
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\bin\Debug\net6.0-windows\ParkingManagement.exe
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\bin\Debug\net6.0-windows\ParkingManagement.deps.json
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\bin\Debug\net6.0-windows\ParkingManagement.runtimeconfig.json
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\bin\Debug\net6.0-windows\ParkingManagement.dll
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\bin\Debug\net6.0-windows\ParkingManagement.pdb
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\bin\Debug\net6.0-windows\FireSharp.dll
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\bin\Debug\net6.0-windows\LiveCharts.dll
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\bin\Debug\net6.0-windows\LiveCharts.Wpf.dll
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\bin\Debug\net6.0-windows\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\bin\Debug\net6.0-windows\Microsoft.Threading.Tasks.Extensions.dll
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\bin\Debug\net6.0-windows\Microsoft.Threading.Tasks.dll
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\bin\Debug\net6.0-windows\System.Net.Http.Extensions.dll
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\bin\Debug\net6.0-windows\System.Net.Http.Primitives.dll
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\obj\Debug\net6.0-windows\ParkingManagement.csproj.AssemblyReference.cache
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\obj\Debug\net6.0-windows\EmployeeWindow.g.cs
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\obj\Debug\net6.0-windows\Employee\AddEmployee.g.cs
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\obj\Debug\net6.0-windows\Employee\UpdateEmployee.g.cs
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\obj\Debug\net6.0-windows\LoginWindow.g.cs
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\obj\Debug\net6.0-windows\OrderWindow.g.cs
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\obj\Debug\net6.0-windows\Order\AddRole.g.cs
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\obj\Debug\net6.0-windows\Order\OrderViewDetail.g.cs
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\obj\Debug\net6.0-windows\Order\UpdateRole.g.cs
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\obj\Debug\net6.0-windows\ParkingLotWindow.g.cs
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\obj\Debug\net6.0-windows\ParkingSlotWindow.g.cs
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\obj\Debug\net6.0-windows\ParkingSubWindow.g.cs
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\obj\Debug\net6.0-windows\Parking\AddParkingLot.g.cs
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\obj\Debug\net6.0-windows\Parking\AddSlotParking.g.cs
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\obj\Debug\net6.0-windows\Parking\AddSubParking.g.cs
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\obj\Debug\net6.0-windows\Parking\UpdateLotParking.g.cs
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\obj\Debug\net6.0-windows\Parking\UpdateSlotParking.g.cs
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\obj\Debug\net6.0-windows\Parking\UpdateSubParking.g.cs
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\obj\Debug\net6.0-windows\ProfileWindow.g.cs
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\obj\Debug\net6.0-windows\RolesWindow.g.cs
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\obj\Debug\net6.0-windows\SignUpWindow.g.cs
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\obj\Debug\net6.0-windows\View\Modal\ModalConfirm.g.cs
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\obj\Debug\net6.0-windows\View\UserControls\CardCustom.g.cs
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\obj\Debug\net6.0-windows\View\UserControls\Custominput.g.cs
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\obj\Debug\net6.0-windows\View\UserControls\CustomPasswordBox.g.cs
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\obj\Debug\net6.0-windows\App.g.cs
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\obj\Debug\net6.0-windows\ParkingManagement_MarkupCompile.cache
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\obj\Debug\net6.0-windows\ParkingManagement_MarkupCompile.lref
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\obj\Debug\net6.0-windows\EmployeeWindow.baml
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\obj\Debug\net6.0-windows\Employee\AddEmployee.baml
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\obj\Debug\net6.0-windows\Employee\UpdateEmployee.baml
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\obj\Debug\net6.0-windows\LoginWindow.baml
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\obj\Debug\net6.0-windows\MainWindow.baml
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\obj\Debug\net6.0-windows\OrderWindow.baml
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\obj\Debug\net6.0-windows\Order\AddRole.baml
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\obj\Debug\net6.0-windows\Order\OrderViewDetail.baml
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\obj\Debug\net6.0-windows\Order\UpdateRole.baml
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\obj\Debug\net6.0-windows\ParkingLotWindow.baml
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\obj\Debug\net6.0-windows\ParkingSlotWindow.baml
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\obj\Debug\net6.0-windows\ParkingSubWindow.baml
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\obj\Debug\net6.0-windows\Parking\AddParkingLot.baml
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\obj\Debug\net6.0-windows\Parking\AddSlotParking.baml
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\obj\Debug\net6.0-windows\Parking\AddSubParking.baml
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\obj\Debug\net6.0-windows\Parking\UpdateLotParking.baml
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\obj\Debug\net6.0-windows\Parking\UpdateSlotParking.baml
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\obj\Debug\net6.0-windows\Parking\UpdateSubParking.baml
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\obj\Debug\net6.0-windows\ProfileWindow.baml
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\obj\Debug\net6.0-windows\RolesWindow.baml
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\obj\Debug\net6.0-windows\SignUpWindow.baml
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\obj\Debug\net6.0-windows\View\Modal\ModalConfirm.baml
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\obj\Debug\net6.0-windows\View\UserControls\CardCustom.baml
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\obj\Debug\net6.0-windows\View\UserControls\Custominput.baml
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\obj\Debug\net6.0-windows\View\UserControls\CustomPasswordBox.baml
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\obj\Debug\net6.0-windows\ParkingManagement.g.resources
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\obj\Debug\net6.0-windows\ParkingManagement.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\obj\Debug\net6.0-windows\ParkingManagement.AssemblyInfoInputs.cache
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\obj\Debug\net6.0-windows\ParkingManagement.AssemblyInfo.cs
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\obj\Debug\net6.0-windows\ParkingManagement.csproj.CoreCompileInputs.cache
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\obj\Debug\net6.0-windows\ParkingManagement.csproj.CopyComplete
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\obj\Debug\net6.0-windows\ParkingManagement.dll
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\obj\Debug\net6.0-windows\refint\ParkingManagement.dll
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\obj\Debug\net6.0-windows\ParkingManagement.pdb
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\obj\Debug\net6.0-windows\ParkingManagement.genruntimeconfig.cache
+E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement(SoftWare)\ParkingManagement\obj\Debug\net6.0-windows\ref\ParkingManagement.dll

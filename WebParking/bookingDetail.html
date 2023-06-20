@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html lang='en'>
+
+<head>
+    <meta charset='utf-8'>
+    <title>Booking</title>
+    <meta content='width=device-width, initial-scale=1.0' name='viewport'>
+    <meta content='Free HTML Templates' name='keywords'>
+    <meta content='Free HTML Templates' name='description'>
+
+
+
+    <!-- Google Web Fonts -->
+    <link rel='preconnect' href='https://fonts.gstatic.com'>
+    <link
+        href='https://fonts.googleapis.com/css2?family=Jost:wght@500;600;700&family=Open+Sans:wght@400;600&display=swap'
+        rel='stylesheet'>
+
+    <!-- Icon Font Stylesheet -->
+    <link href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css' rel='stylesheet'>
+    <link href='https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css' rel='stylesheet'>
+    <link href='lib/flaticon/font/flaticon.css' rel='stylesheet'>
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    <link rel='stylesheet' href='https://unicons.iconscout.com/release/v4.0.8/css/line.css'>
+
+    <!-- Libraries Stylesheet -->
+    <link href='lib/owlcarousel/assets/owl.carousel.min.css' rel='stylesheet'>
+    <link href='lib/animate/animate.min.css' rel='stylesheet'>
+
+    <!-- Customized Bootstrap Stylesheet -->
+    <link href='css/bootstrap.min.css' rel='stylesheet'>
+    <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/izitoast/1.4.0/css/iziToast.css'
+        integrity='sha512-DIW4FkYTOxjCqRt7oS9BFO+nVOwDL4bzukDyDtMO7crjUZhwpyrWBFroq+IqRe6VnJkTpRAS6nhDvf0w+wHmxg=='
+        crossorigin='anonymous' referrerpolicy='no-referrer' />
+    <!-- Template Stylesheet -->
+    <link href='css/style.css' rel='stylesheet'>
+    <link href='css/bookingDetail.css' rel='stylesheet'>
+</head>
+
+<body>
+    <!-- Navbar Start -->
+    <nav class='navbar navbar-expand-lg bg-white navbar-light shadow-sm py-3 py-lg-0 px-3 px-lg-0'>
+        <a href='index.html' class='navbar-brand ms-lg-5'>
+            <h1 class='display-5 m-0 text-primary'>Parking<span class='text-dark'>BC</span></h1>
+        </a>
+        <button class='navbar-toggler' type='button' data-bs-toggle='collapse' data-bs-target='#navbarCollapse'>
+            <span class='navbar-toggler-icon'></span>
+        </button>
+        <div class='collapse navbar-collapse' id='navbarCollapse'>
+            <div class='navbar-nav ms-auto py-0'>
+                <a href='index.html' class='nav-item nav-link'>Home</a>
+                <a href='profile.html' class='nav-item nav-link'>Profile</a>
+                <a href='#' class='nav-item nav-link active'>Booking</a>
+                <a href='order.html' class='nav-item nav-link'>Order</a>
+                <a href='Login.html' id='LogOutLink'
+                    class='nav-item nav-link nav-contact bg-secondary text-white px-5 ms-lg-5' style='display: block;'
+                    onclick='logOut()'><i class='bx bx-lock-open-alt me-2'></i>LOGOUT</a>
+            </div>
+        </div>
+    </nav>
+    <!-- Navbar End -->
+
+
+    <!-- Hero Start -->
+    <div class='container-fluid bg-primary p-lg-1 hero-header mb-lg-1'>
+        <div class='row py-5'>
+            <div class='col-12 text-center'>
+                <h1 class='display-1 text-white animated zoomIn'>Booking</h1>
+                <a href='index.html' class='h4 text-white'>Home</a>
+                <i class='far fa-circle text-white px-2'></i>
+                <a href='#' class='h4 text-white'>Booking</a>
+            </div>
+        </div>
+    </div>
+    <!-- Hero End -->
+
+    <!-- booking Start -->
+    <div class='container-fluid'>
+        <div class='row' id='divMain'>
+            <div class='col-lg-6' id='divBookingData'>
+                <div>
+                    <div>
+                        <div class='container text-center'>
+                            <div class='row'>
+                                <div class='col-lg-5'>
+                                    <h2 id='header'>Find a car park</h2>
+                                </div>
+                                <div class='col-lg-7'>
+                                    <br>
+                                    <nav id='navMenuItem'>
+                                        <menu>
+                                            <menuitem id='demo1'>
+                                            <a class='bg-primary' id='tagParkingLot'>Parking-Lot</a>
+                                    </nav>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div style='padding: 0 46px'>
+                    <p id='textSp'>Book this car park online now, if you are searching for parking nearby you</p>
+                </div>
+                <div style='padding: 0 46px;'>
+                    <h4>Car park features</h4>
+                    <p>
+                        - 24 hours <br>
+                        - Night Parking <br>
+                        - Early Bird Parking <br>
+                        - Shopping Nearby <br>
+                        - Weekend Parking <br>
+                        - Monthly Parking <br>
+                        - Advantage Parker
+                    </p>
+                </div>
+                <div class='skills_container container grid' id='divSubParking'>
+                    <div>
+                        <h4>Parking - Sub</h4>
+                        <div id='subOfLot'>
+
+
+                        </div>
+
+
+                    </div>
+                </div>
+            </div>
+            <div class='col-lg-6'>
+                <iframe id='MapParkingLot' src='' allowfullscreen=''
+                    loading='lazy' referrerpolicy='no-referrer-when-downgrade'                    
+                    referrerpolicy='no-referrer-when-downgrade'></iframe>
+            </div>
+        </div>
+    </div>
+    <!-- booking End -->
+    <!-- start comment and rating -->
+    <div id="divRating" class='container-fluid py-5 wow fadeInUp' data-wow-delay='0.1s' style='margin-bottom: 75px;'>
+        <div class='container'>
+            <div class='text-center mx-auto mb-5' style='max-width: 600px;'>
+                <h5 class='text-primary text-uppercase' style='letter-spacing: 5px;'>Rating Statistics</h5>
+                <h1 class='display-5 mb-0'>What did they say about our parking?</h1>
+            </div>
+            <div class='row g-5'>
+                <div>
+                    <h3>Ratings and Reviews</h3>
+                    <br>
+                    <h2 id="numberOfRating">334</h2>
+                    <p>Rated 3.5 out of 5</p>
+                    <div class='container'>
+                        <div class='row'>
+                            <!-- 5 star -->
+                            <div class='col-lg-1'>
+                                <p>5 Star</p>
+                            </div>
+                            <div class='col-lg-10'>
+                                <div>
+                                    <div>
+                                        <div class='skills_bar' style='background-color: lightblue;margin-top: 12px;'>
+                                            <span class='skills_percentage percent_slot'
+                                                id='percentRatingFiveStar'></span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class='col-lg-1'>
+                                <p id='percenFiveStar'>56%</p>
+                            </div>
+                            <!-- 4 star -->
+                            <div class='col-lg-1'>
+                                <p>4 Star</p>
+                            </div>
+                            <div class='col-lg-10'>
+                                <div>
+                                    <div>
+                                        <div class='skills_bar' style='background-color: lightblue;margin-top: 12px;'>
+                                            <span class='skills_percentage percent_slot'
+                                                id='percentRatingFourStar'></span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class='col-lg-1'>
+                                <p id='percenFourStar'>36%</p>
+                            </div>
+                            <!-- 3 star -->
+                            <div class='col-lg-1'>
+                                <p>3 Star</p>
+                            </div>
+                            <div class='col-lg-10'>
+                                <div>
+                                    <div>
+                                        <div class='skills_bar' style='background-color: lightblue;margin-top: 12px;'>
+                                            <span class='skills_percentage percent_slot'
+                                                id='percentRatingThreeStar'></span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class='col-lg-1'>
+                                <p id='percenThreeStar'>26%</p>
+                            </div>
+                            <!-- 2 star -->
+                            <div class='col-lg-1'>
+                                <p>2 Star</p>
+                            </div>
+                            <div class='col-lg-10'>
+                                <div>
+                                    <div>
+                                        <div class='skills_bar' style='background-color: lightblue;margin-top: 12px;'>
+                                            <span class='skills_percentage percent_slot'
+                                                id='percentRatingTwoStar'></span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class='col-lg-1'>
+                                <p id='percenTwoStar'>16%</p>
+                            </div>
+                            <!-- 1 star -->
+                            <div class='col-lg-1'>
+                                <p>1 Star</p>
+                            </div>
+                            <div class='col-lg-10'>
+                                <div>
+                                    <div>
+                                        <div class='skills_bar' style='background-color: lightblue;margin-top: 12px;'>
+                                            <span class='skills_percentage percent_slot'
+                                                id='percentRatingOneStar'></span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class='col-lg-1'>
+                                <p id='percenOneStar'>1%</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- user rating -->
+                <hr>
+                <div>
+                    <div class='container3' id='divTimeCome'>
+                        <select class='brand-selector event-type-select' onChange='myNewFunction(this);'
+                            id='starSeleted' style='text-align: center;'>
+                            <option value='5'>
+                                <p >5 Star</p>
+                            </option>
+                            <option value='4'>
+                                <p style='padding-left: 20px;'>4 Star</p>
+                            </option>
+                            <option value='3'>
+                                <p style='padding-left: 20px;'>3 Star</p>
+                            </option>
+                            <option value='2'>
+                                <p style='padding-left: 20px;'>2 Star</p>
+                            </option>
+                            <option value='1'>
+                                <p style='padding-left: 20px;'>1 Star</p>
+                            </option>
+                        </select>
+                    </div>
+                </div>
+                <!-- comment -->
+                <div id="divComment">
+                   
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- end comment and rating -->
+    <br>
+    <!-- Footer Start -->
+ <div class="container-fluid bg-dark text-light mt-5 py-5 wow fadeInUp" data-wow-delay="0.1s">
+    <div class="container pt-5">
+        <div class="row g-5">
+            <div class="col-lg-3 col-md-6">
+                <h3 class="text-white mb-4">Quick Comes</h3>
+                <div class="d-flex flex-column justify-content-start">
+                    <a class="text-light mb-2" href="#AboutDiv"><i class="bi bi-arrow-right text-primary me-2"></i>About Us</a>
+                    <a class="text-light mb-2" href="#ServiceDiv"><i class="bi bi-arrow-right text-primary me-2"></i>Our Services</a>
+                    <a class="text-light mb-2" href="#PriceDiv"><i class="bi bi-arrow-right text-primary me-2"></i>Pricing Plan</a>
+                    <a class="text-light mb-2" href="#DivTeam"><i class="bi bi-arrow-right text-primary me-2"></i>Team Member</a>
+                    <a class="text-light" href="#DevTestimonial"><i class="bi bi-arrow-right text-primary me-2"></i>Testimonial</a>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <h3 class="text-white mb-4">Popular Links</h3>
+                <div class="d-flex flex-column justify-content-start">
+                    <a class="text-light mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Home</a>
+                    <a class="text-light mb-2" href="profile.html"><i class="bi bi-arrow-right text-primary me-2"></i>Profile</a>
+                    <a class="text-light mb-2" href="booking.html"><i class="bi bi-arrow-right text-primary me-2"></i>Booking</a>
+                    <a class="text-light mb-2" href="order.html"><i class="bi bi-arrow-right text-primary me-2"></i>Order</a>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <h3 class="text-white mb-4">Get In Touch</h3>
+                <p class="mb-2"><i class="bi bi-geo-alt text-primary me-2"></i>123 Street, Thu Duc City, Viet Nam</p>
+                <p class="mb-2"><i class="bi bi-envelope-open text-primary me-2"></i>ParkingBC@example.com</p>
+                <p class="mb-0"><i class="bi bi-telephone text-primary me-2"></i>+012 345 67890</p>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <h3 class="text-white mb-4">Follow Us</h3>
+                <div class="d-flex">
+                    <a class="btn btn-lg btn-primary btn-lg-square rounded me-2" href="#"><i class="fab fa-twitter fw-normal"></i></a>
+                    <a class="btn btn-lg btn-primary btn-lg-square rounded me-2" href="#"><i class="fab fa-facebook-f fw-normal"></i></a>
+                    <a class="btn btn-lg btn-primary btn-lg-square rounded me-2" href="#"><i class="fab fa-linkedin-in fw-normal"></i></a>
+                    <a class="btn btn-lg btn-primary btn-lg-square rounded" href="#"><i class="fab fa-instagram fw-normal"></i></a>
+                </div>
+            </div>               
+        </div>
+    </div>
+</div>
+<!-- Footer End -->
+
+
+    <!-- Back to Top -->
+
+    <a href='#' class='btn btn-lg btn-dark btn-lg-square rounded back-to-top'><i class='bi bi-arrow-up'></i></a>
+
+
+    <!-- Firebase Libraries -->
+    <script src='https://www.gstatic.com/firebasejs/8.6.8/firebase-app.js'></script>
+    <script src='https://www.gstatic.com/firebasejs/8.6.8/firebase-auth.js'></script>
+    <script src='https://www.gstatic.com/firebasejs/8.6.8/firebase-database.js'></script>
+
+
+    <!-- JavaScript Libraries -->
+    <script src='https://code.jquery.com/jquery-3.4.1.min.js'></script>
+    <script src='https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js'></script>
+    <script src='lib/wow/wow.min.js'></script>
+    <script src='lib/easing/easing.min.js'></script>
+    <script src='lib/waypoints/waypoints.min.js'></script>
+    <script src='lib/owlcarousel/owl.carousel.min.js'></script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/izitoast/1.4.0/js/iziToast.min.js'></script>
+    <!-- Template Javascript -->
+    <!-- <script src='js/main.js'></script> -->
+    <script src='js/bookingDetail.js'></script>
+</body>
+
+</html>

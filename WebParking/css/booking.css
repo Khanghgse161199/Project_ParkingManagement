@@ -1,0 +1,58 @@
+#imagePrakingLot{
+    width: 100%;
+    height: 200px;
+}
+#titleTag{
+    font-size: medium;
+}
+#btnViewing{
+    text-align: right;
+}
+#divImgParking{
+    width: 415px;
+    height: 265px;
+}
+#imgparking{
+    width: 100%;
+    height: 100%;
+}
+
+@media screen and (max-width: 1100px) {
+    #btnViewing{
+        text-align: left;
+    }
+    #descriptionParkingLot{
+        margin-top: 15px;
+    }
+    #divImgParking{
+        width: 100%;
+        height: 200px;
+    }
+    #imgparking{
+        width: 100%;
+        height: 100%;
+    }
+   #divContentBooking{
+    padding: 5px;
+   }
+    #btnViewing{
+        margin-right: 20px;
+    }
+}
+@media screen and (max-width: 800px) {
+    #btnViewing{
+        text-align: left;
+    }
+    #descriptionParkingLot{
+        margin-top: 15px;
+    }
+    #divImgParking{
+        width: 100%;
+        height: 200px;
+    }
+    #imgparking{
+        width: 100%;
+        height: 100%;
+    }
+}
+

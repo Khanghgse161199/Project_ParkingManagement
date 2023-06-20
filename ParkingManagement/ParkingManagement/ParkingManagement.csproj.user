@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>E:\Project Code\WPF app\Parking_WPF\ParkingManagement\ParkingManagement\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="EmployeeWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Employee\AddEmployee.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Employee\UpdateEmployee.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="LoginWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="OrderWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Order\OrderViewDetail.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ParkingLotWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ParkingSlotWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ParkingSubWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Parking\AddParkingLot.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Parking\AddSlotParking.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Parking\AddSubParking.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Parking\UpdateLotParking.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Parking\UpdateSlotParking.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Parking\UpdateSubParking.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ProfileWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="RolesWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Order\AddRole.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Order\UpdateRole.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="SignUpWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Modal\ModalConfirm.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\UserControls\CardCustom.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\UserControls\Custominput.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\UserControls\CustomPasswordBox.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="EmployeeWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Employee\AddEmployee.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Employee\UpdateEmployee.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="LoginWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="OrderWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Order\OrderViewDetail.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ParkingLotWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ParkingSlotWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ParkingSubWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Parking\AddParkingLot.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Parking\AddSlotParking.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Parking\AddSubParking.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Parking\UpdateLotParking.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Parking\UpdateSlotParking.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Parking\UpdateSubParking.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ProfileWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="RolesWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Order\AddRole.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Order\UpdateRole.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="SignUpWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Modal\ModalConfirm.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\UserControls\CardCustom.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\UserControls\Custominput.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\UserControls\CustomPasswordBox.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

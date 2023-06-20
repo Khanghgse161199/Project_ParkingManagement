@@ -1,0 +1,12 @@
+E:\Project Code\WPF_Practical\Parking_WPF\Api\ParkingManagerment\ViewModels\bin\Debug\net7.0\ViewModels.deps.json
+E:\Project Code\WPF_Practical\Parking_WPF\Api\ParkingManagerment\ViewModels\bin\Debug\net7.0\ViewModels.dll
+E:\Project Code\WPF_Practical\Parking_WPF\Api\ParkingManagerment\ViewModels\bin\Debug\net7.0\ViewModels.pdb
+E:\Project Code\WPF_Practical\Parking_WPF\Api\ParkingManagerment\ViewModels\obj\Debug\net7.0\ViewModels.csproj.AssemblyReference.cache
+E:\Project Code\WPF_Practical\Parking_WPF\Api\ParkingManagerment\ViewModels\obj\Debug\net7.0\ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project Code\WPF_Practical\Parking_WPF\Api\ParkingManagerment\ViewModels\obj\Debug\net7.0\ViewModels.AssemblyInfoInputs.cache
+E:\Project Code\WPF_Practical\Parking_WPF\Api\ParkingManagerment\ViewModels\obj\Debug\net7.0\ViewModels.AssemblyInfo.cs
+E:\Project Code\WPF_Practical\Parking_WPF\Api\ParkingManagerment\ViewModels\obj\Debug\net7.0\ViewModels.csproj.CoreCompileInputs.cache
+E:\Project Code\WPF_Practical\Parking_WPF\Api\ParkingManagerment\ViewModels\obj\Debug\net7.0\ViewModels.dll
+E:\Project Code\WPF_Practical\Parking_WPF\Api\ParkingManagerment\ViewModels\obj\Debug\net7.0\refint\ViewModels.dll
+E:\Project Code\WPF_Practical\Parking_WPF\Api\ParkingManagerment\ViewModels\obj\Debug\net7.0\ViewModels.pdb
+E:\Project Code\WPF_Practical\Parking_WPF\Api\ParkingManagerment\ViewModels\obj\Debug\net7.0\ref\ViewModels.dll

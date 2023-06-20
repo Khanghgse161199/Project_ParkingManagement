@@ -1,0 +1,50 @@
+#inputCutom input{
+    text-align: left;
+    width: 300px;
+    height: 40px;
+    background-color: white;
+    border: none;
+    color: gray;
+    font-weight: 800;
+    font-size: large;
+    opacity: 0.8;
+    font-display: initial;   
+    padding-left: 20px;
+    border-radius: 5px;
+}
+#inputCutom h4{
+    font-size: large;
+}
+#inputCutom input:focus{
+    border: none;
+    outline: none;
+}
+#inputCutom label{
+    font-weight: 600;
+    color: black;
+    opacity: 1;
+    font-size: large;
+}
+#divProfile{
+   padding: 5px;
+   background-color: aliceblue;
+}
+#inputCutom{
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+#divProfile{
+    border-radius: 15px;
+    box-shadow: 0 0 20px rgba(140, 138, 159, 0.6);
+}
+
+@media screen and (max-width: 1100px) {
+    #divProfile{      
+        margin-top: 28px;
+    }
+}
+@media screen and (max-width: 800px) {
+    #divProfile{      
+        margin-top: 28px;
+    }
+}
