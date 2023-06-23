@@ -127,7 +127,3 @@ function isNullOrEmpty(str) {
     return !str || str.length === 0;
 }
 
-function logOut(){
-    localStorage.setItem("idUser","null");
-    location.reload();
-}

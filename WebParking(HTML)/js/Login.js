@@ -35,7 +35,13 @@ var listCustomer = [];
 
 
 window.onload = async function () {
-    announceSuccess("Let login to booking.");
+
+    document.getElementById("profileLink").style.display = "none";
+    document.getElementById("orderLink").style.display = "none";
+    document.getElementById("LoginLink").style.display = "flex";
+  
+
+    announceSuccess("Let login to get some good-experience.");
 
     const ref = firebase.database().ref("/");
     const snapshot = await ref.limitToLast(20).once("value");
@@ -49,31 +55,9 @@ window.onload = async function () {
             });
         }        
     });
-    console.log("1");
-    console.log(listCustomer);
-    var idUser = localStorage.getItem("idUser");
-    // if(!isNullOrEmpty(idUser)){
-    //     listCustomer.forEach(element => {
-    //         if(element.Id == idUser){
-    //             document.getElementById("profileLink").style.display = "flex";
-    //             document.getElementById("orderLink").style.display = "flex";
-    //             document.getElementById("LoginLink").style.display = "none";
-    //             document.getElementById("LogOutLink").style.display = "flex";
-    //         }
-    //     });
-    // }else{
-        document.getElementById("profileLink").style.display = "none";
-        document.getElementById("orderLink").style.display = "none";
-        document.getElementById("LoginLink").style.display = "flex";
-        document.getElementById("LogOutLink").style.display = "none";
-    // }
+      
 }
 
-
-function logOut(){
-    localStorage.setItem("idUser",null);
-    location.reload();
-}
 
 function SignUp() {
     var name = document.getElementById("inputName").value;
@@ -144,9 +128,8 @@ async function login(){
             }
         }
     }
-
     if(TokenObject != null){
-        var url = "https://localhost:7236/api/Token/Login";
+        var url = "https://localhost:7236/api/Auth/Login";
             
             var repone = await fetch(url, {
                 method: "POST",

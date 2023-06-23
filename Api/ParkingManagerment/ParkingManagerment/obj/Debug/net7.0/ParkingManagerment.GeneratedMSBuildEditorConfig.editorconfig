@@ -12,6 +12,6 @@ build_property.RootNamespace = ParkingManagerment
 build_property.ProjectDir = E:\Project Code\WPF_Practical\Parking_WPF\Api\ParkingManagerment\ParkingManagerment\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
-build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
 build_property.MSBuildProjectDirectory = E:\Project Code\WPF_Practical\Parking_WPF\Api\ParkingManagerment\ParkingManagerment
 build_property._RazorSourceGeneratorDebug = 

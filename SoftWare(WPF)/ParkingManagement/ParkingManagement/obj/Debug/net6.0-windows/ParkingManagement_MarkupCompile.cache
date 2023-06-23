@@ -12,7 +12,7 @@ TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 E:\Project Code\WPF_Practical\Parking_WPF\ParkingManagement\ParkingManagement\App.xaml
 25273277635
 
-35-818796888
+36-180571645
 206-568223515
 EmployeeWindow.xaml;Employee\AddEmployee.xaml;Employee\UpdateEmployee.xaml;LoginWindow.xaml;MainWindow.xaml;OrderWindow.xaml;Order\AddRole.xaml;Order\OrderViewDetail.xaml;Order\UpdateRole.xaml;ParkingLotWindow.xaml;ParkingSlotWindow.xaml;ParkingSubWindow.xaml;Parking\AddParkingLot.xaml;Parking\AddSlotParking.xaml;Parking\AddSubParking.xaml;Parking\UpdateLotParking.xaml;Parking\UpdateSlotParking.xaml;Parking\UpdateSubParking.xaml;ProfileWindow.xaml;RolesWindow.xaml;SignUpWindow.xaml;View\Modal\ModalConfirm.xaml;View\UserControls\CardCustom.xaml;View\UserControls\Custominput.xaml;View\UserControls\CustomPasswordBox.xaml;
 

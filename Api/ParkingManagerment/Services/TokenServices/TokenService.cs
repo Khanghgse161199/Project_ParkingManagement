@@ -3,6 +3,8 @@ using FireSharp.Config;
 using FireSharp.Interfaces;
 using Microsoft.Extensions.Configuration;
 using Microsoft.IdentityModel.Tokens;
+using Newtonsoft.Json.Linq;
+
 using System;
 using System.Collections.Generic;
 using System.IdentityModel.Tokens.Jwt;
@@ -13,6 +15,7 @@ using System.Text;
 using System.Threading.Tasks;
 using ViewModels.Token;
 
+
 namespace Services.TokenServices
 { 
     public class TokenService: ITokenService
@@ -20,10 +23,11 @@ namespace Services.TokenServices
         private SymmetricSecurityKey _key;
         public TokenService(IConfiguration configuration)
         {
-            _key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(configuration["AppSettings:SecretKey"]));
+            _key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(configuration["AppSettings:SecretKey"]));         
         }
-        public CreateTokenResultViewModel GenerateToken(string userId)
+        public CreateTokenResultViewModel GenerateToken(string userId, string id)
         {
+           
             //JwtSecurityTokenHandler cung cấp các phương thức để tạo, xác minh và xử lý mã token trong JWT.
             var jwtTokenHandler = new JwtSecurityTokenHandler();
 
@@ -33,6 +37,7 @@ namespace Services.TokenServices
 
             var claims = new List<Claim>
             {
+                new Claim("TokenId",id),
                 new Claim("UserId",userId),
                 new Claim(ClaimTypes.Role,"User"),            
             };
@@ -76,9 +81,8 @@ namespace Services.TokenServices
             {
                 //check 1: AccessToken valid format
                 var tokenInVerification = jwtTokenHandler.ValidateToken(token, tokenValidateParam, out var validatedToken);
-                //check 3: Check accessToken expire?
+                //check 2: Check accessToken expire?
                 long utcExpireDate = long.Parse(tokenInVerification.Claims.FirstOrDefault(x => x.Type == JwtRegisteredClaimNames.Exp).Value);
-
                 var expireDate = convertToUnixTime(utcExpireDate);
                 if (expireDate < DateTime.UtcNow)
                 {

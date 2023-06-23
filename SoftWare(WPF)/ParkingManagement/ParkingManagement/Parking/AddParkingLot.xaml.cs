@@ -3,6 +3,8 @@ using FireSharp.Config;
 using FireSharp.Extensions;
 using FireSharp.Interfaces;
 using FireSharp.Response;
+using Newtonsoft.Json.Linq;
+using Services.Data;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -32,8 +34,7 @@ namespace ParkingManagement.Parking
         IFirebaseConfig config = new FirebaseConfig()
         {
             AuthSecret = "vTlGsUNSeH6XbfJogwwn694XxLryWJ7SK9gQy7rk",
-            BasePath = "https://fir-js-a0ffd-default-rtdb.firebaseio.com/",
-          
+            BasePath = "https://fir-js-a0ffd-default-rtdb.firebaseio.com/", 
         };
        
         public AddParkingLot(Window owner, string idAccountOwner)

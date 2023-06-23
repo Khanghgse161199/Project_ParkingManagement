@@ -2,6 +2,7 @@
 using Autofac.Extensions.DependencyInjection;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
+using Services.AuthServices;
 using Services.TokenServices;
 using System.Text;
 
@@ -15,6 +16,7 @@ namespace ParkingManagerment
             builder.Services.AddControllers();
             builder.Services.AddCors();
             builder.Services.AddSwaggerGen();
+            builder.Services.AddControllersWithViews().AddRazorRuntimeCompilation();
             // Add services to the container.
 
           
@@ -55,6 +57,7 @@ namespace ParkingManagerment
             builder.Host.ConfigureContainer<ContainerBuilder>(builder =>
             {
                 builder.RegisterType<TokenService>().As<ITokenService>();
+                builder.RegisterType<AuthService>().As<IAuthService>();
             });
 
             var app = builder.Build();

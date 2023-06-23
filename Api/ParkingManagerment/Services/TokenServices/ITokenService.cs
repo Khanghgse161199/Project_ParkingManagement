@@ -10,7 +10,7 @@ namespace Services.TokenServices
 {
     public interface ITokenService
     {
-        CreateTokenResultViewModel GenerateToken(string userId);
+        CreateTokenResultViewModel GenerateToken(string userId, string id);
         ClaimsPrincipal DecodeToken(string token);
     }
 }

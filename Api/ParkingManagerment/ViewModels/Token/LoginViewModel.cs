@@ -11,5 +11,6 @@ namespace ViewModels.Token
     {
         [Required]
         public string UserId { get; set; }
+        
     }
 }
